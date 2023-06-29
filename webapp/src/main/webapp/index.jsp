@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="location"><b>Enter Location</b></label>
+    <input type="text" placeholder="Enter Location" name="location" id="location" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>

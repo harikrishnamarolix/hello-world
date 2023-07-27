@@ -13,7 +13,7 @@
     <br>
 
     <label for="mobile"><b>Address</b></label>
-    <input type="text" placeholder="Enter Address" name="address" id="mobile" required>
+    <input type="text" placeholder="Enter Address" name="address" id="address" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>

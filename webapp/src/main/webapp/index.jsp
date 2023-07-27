@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register Details</h1>
+    <h1> New user Register Details for the Devops Candidate </h1>
     <p>Please fill the form to create an account.</p>
     <hr>
      
